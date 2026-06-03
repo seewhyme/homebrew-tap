@@ -1,8 +1,8 @@
 class Cliup < Formula
   desc "Small macOS CLI updater for whitelisted developer tools"
   homepage "https://github.com/seewhyme/cliup"
-  url "https://github.com/seewhyme/cliup/releases/download/v0.1.2/cliup-v0.1.2-aarch64-apple-darwin.tar.gz"
-  sha256 "7ec0130a192a6764771aa36bf2810ef12d4a05df358e69d9b87cf86f89193277"
+  url "https://github.com/seewhyme/cliup/releases/download/v0.1.3/cliup-v0.1.3-aarch64-apple-darwin.tar.gz"
+  sha256 "939b2044a47d4f896a15fb4a7bb132f6467f91c85b306e95809db2ecef4b711d"
   license "MIT"
 
   depends_on arch: :arm64
